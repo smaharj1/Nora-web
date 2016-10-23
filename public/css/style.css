@@ -1,0 +1,28 @@
+.intro {
+    min-height: 50vh;
+    vertical-align: center;
+    text-align: center;
+    padding-top: 100px;
+    background-color: #FAEBD7;
+}
+
+#nora-nora {
+    font-size: 100px;
+    color: green;
+}
+
+img {
+    height: 400px;
+    width: 300px;
+    object-fit: cover;
+}
+
+td {
+    padding-left: 10px;
+    padding-right: 10px;
+    cursor: pointer;
+}
+
+img {
+    cursor: pointer;
+}

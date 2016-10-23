@@ -1,5 +1,5 @@
 .intro {
-    min-height: 50vh;
+    min-height: 70vh;
     vertical-align: center;
     text-align: center;
     padding-top: 100px;
@@ -12,8 +12,8 @@
 }
 
 img {
-    height: 400px;
-    width: 300px;
+    height: 400px !important;
+    width: 300px !important;
     object-fit: cover;
 }
 
@@ -25,4 +25,11 @@ td {
 
 img {
     cursor: pointer;
+    
+}
+
+.modal-content {
+    vertical-align: center;
+    text-align: center;
+    padding: 25px;
 }
